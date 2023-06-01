@@ -1,3 +1,6 @@
 {
-  "db": "mongodb://localhost:27017/words_tests"
+  "db": "mongodb://localhost:27017/words_tests",
+  "port": "3000"
 }
+
+// $env:NODE_ENV = "test"

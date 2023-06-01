@@ -7,11 +7,12 @@ require("./startup/logging")();
 require("./startup/cors")(app);
 require("./startup/routes")(app);
 require("./startup/db")();
-//require("./startup/validation")();
 
 const port = process.env.PORT || config.get("port");
 const server = app.listen(port, () =>
   winston.info(`Listening on port ${port}...`)
 );
+
+console.log(process.env.NODE_ENV);
 
 module.exports = server;
