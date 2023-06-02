@@ -8,16 +8,20 @@ let WordModel;
 const words = require("./words.data");
 let server;
 
-const ModelObject = (wordType) => {
-  return {};
-};
+describe(" GET /api/words/wordlist", () => {
+  console.log(server, "words");
 
-describe("/api/words/wordlist", () => {
+  const exex = async (wordType) => {
+    return await request(server).get(`/api/words/wordlist?type=${wordType}`);
+  };
   beforeEach(() => {
     server = require("../../index");
   });
   afterEach(async () => {
-    await server.close();
+    // await server.close();
+
+    await new Promise((resolve) => server.close(resolve));
+
     await WordModel.deleteMany({});
     WordModel = " ";
     collectionName = " ";
@@ -30,9 +34,7 @@ describe("/api/words/wordlist", () => {
       WordModel = mongoose.model(collectionName, wordSchema);
       await WordModel.collection.insertMany(words[wordType]);
 
-      const res = await request(server).get(
-        `/api/words/wordlist?type=${wordType}`
-      );
+      const res = await exex(wordType);
 
       expect(res.status).toBe(200);
       expect(res.body.length).toBe(2);
@@ -49,9 +51,7 @@ describe("/api/words/wordlist", () => {
       WordModel = mongoose.model(collectionName, wordSchema);
       await WordModel.collection.insertMany(words[wordType]);
 
-      const res = await request(server).get(
-        `/api/words/wordlist?type=${wordType}`
-      );
+      const res = await exex(wordType);
 
       expect(res.status).toBe(200);
       expect(res.body.length).toBe(2);
@@ -68,9 +68,7 @@ describe("/api/words/wordlist", () => {
       WordModel = mongoose.model(collectionName, wordSchema);
       await WordModel.collection.insertMany(words[wordType]);
 
-      const res = await request(server).get(
-        `/api/words/wordlist?type=${wordType}`
-      );
+      const res = await exex(wordType);
 
       expect(res.status).toBe(200);
       expect(res.body.length).toBe(2);
@@ -88,9 +86,7 @@ describe("/api/words/wordlist", () => {
       WordModel = mongoose.model(collectionName, wordSchema);
       await WordModel.collection.insertMany(words[wordType]);
 
-      const res = await request(server).get(
-        `/api/words/wordlist?type=${wordType}`
-      );
+      const res = await exex(wordType);
 
       expect(res.status).toBe(200);
       expect(res.body.length).toBe(2);
@@ -108,9 +104,7 @@ describe("/api/words/wordlist", () => {
       WordModel = mongoose.model(collectionName, wordSchema);
       await WordModel.collection.insertMany(words[wordType]);
 
-      const res = await request(server).get(
-        `/api/words/wordlist?type=${wordType}`
-      );
+      const res = await exex(wordType);
 
       expect(res.status).toBe(200);
       expect(res.body.length).toBe(2);
@@ -128,9 +122,7 @@ describe("/api/words/wordlist", () => {
       WordModel = mongoose.model(collectionName, wordSchema);
       await WordModel.collection.insertMany(words[wordType]);
 
-      const res = await request(server).get(
-        `/api/words/wordlist?type=${wordType}`
-      );
+      const res = await exex(wordType);
 
       expect(res.status).toBe(200);
       expect(res.body.length).toBe(2);
@@ -148,9 +140,7 @@ describe("/api/words/wordlist", () => {
       WordModel = mongoose.model(collectionName, wordSchema);
       await WordModel.collection.insertMany(words[wordType]);
 
-      const res = await request(server).get(
-        `/api/words/wordlist?type=${wordType}`
-      );
+      const res = await exex(wordType);
 
       expect(res.status).toBe(200);
       expect(res.body.length).toBe(2);
@@ -168,9 +158,7 @@ describe("/api/words/wordlist", () => {
       WordModel = mongoose.model(collectionName, wordSchema);
       await WordModel.collection.insertMany(words[wordType]);
 
-      const res = await request(server).get(
-        `/api/words/wordlist?type=${wordType}`
-      );
+      const res = await exex(wordType);
 
       expect(res.status).toBe(200);
       expect(res.body.length).toBe(2);
@@ -188,9 +176,7 @@ describe("/api/words/wordlist", () => {
       WordModel = mongoose.model(collectionName, wordSchema);
       await WordModel.collection.insertMany(words[wordType]);
 
-      const res = await request(server).get(
-        `/api/words/wordlist?type=${wordType}`
-      );
+      const res = await exex(wordType);
 
       expect(res.status).toBe(200);
       expect(res.body.length).toBe(2);
