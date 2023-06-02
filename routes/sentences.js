@@ -15,4 +15,9 @@ router.post("/", async (req, res) => {
   return res.send(sentence);
 });
 
+router.get("/", async (req, res) => {
+  const sentences = await Sentence.find({});
+  return res.status(200).send(sentences);
+});
+
 module.exports = router;

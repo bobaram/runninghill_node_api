@@ -2,7 +2,7 @@ const request = require("supertest");
 const { Sentence } = require("../../models/sentence");
 
 let server;
-describe("POST / /api/words/sentence", () => {
+describe("POST / /api/words/sentences", () => {
   // Define the happy path, and then in each test, we change
   // one parameter that clearly aligns with the name of the
   // test.
@@ -11,7 +11,9 @@ describe("POST / /api/words/sentence", () => {
   console.log(server, "sentence");
 
   const exec = async () => {
-    return await request(server).post("/api/words/sentence").send({ sentence });
+    return await request(server)
+      .post("/api/words/sentences")
+      .send({ sentence });
   };
 
   beforeEach(() => {
@@ -57,6 +59,26 @@ describe("POST / /api/words/sentence", () => {
 
       expect(res.body).toHaveProperty("_id");
       expect(res.body).toHaveProperty("sentence", "I am a boy!");
+    });
+  });
+  describe(" GET /", () => {
+    it("should return all sentences", async () => {
+      const sentences = [
+        { sentence: "I am a man" },
+        { sentence: "I am from asia" },
+      ];
+      await Sentence.collection.insertMany(sentences);
+
+      const res = await request(server).get("/api/words/sentences");
+
+      expect(res.status).toBe(200);
+      expect(res.body.length).toBe(2);
+      expect(
+        res.body.some((g) => g.sentence === sentences[0].sentence)
+      ).toBeTruthy();
+      expect(
+        res.body.some((g) => g.sentence === sentences[1].sentence)
+      ).toBeTruthy();
     });
   });
 });

@@ -5,6 +5,6 @@ const sentenceRouter = require("../routes/sentences");
 module.exports = function (app) {
   app.use(express.json());
   app.use("/api/words/wordlist", wordsRouter);
-  app.use("/api/words/sentence", sentenceRouter);
+  app.use("/api/words/sentences", sentenceRouter);
   app.use(error);
 };

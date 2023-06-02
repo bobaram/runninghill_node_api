@@ -1260,3 +1260,201 @@
 {"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T21:50:32.413Z"}
 {"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T21:50:32.487Z"}
 {"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T21:50:32.578Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T21:55:53.244Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T21:55:53.322Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T21:55:54.122Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T21:55:54.172Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T21:57:09.078Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T21:57:09.097Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T21:57:09.875Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T21:57:09.955Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T21:57:28.378Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T21:57:28.401Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T21:57:29.058Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T21:57:29.136Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T21:57:43.539Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T21:57:43.588Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T21:57:44.392Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T21:57:44.527Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T21:58:11.032Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T21:58:11.075Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T21:58:11.756Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T21:58:11.791Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T21:58:22.206Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T21:58:22.227Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T21:58:22.923Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T21:58:22.950Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T21:58:49.424Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T21:58:49.445Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T21:58:50.074Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T21:58:50.108Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2023-06-02T21:59:47.357Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words...","timestamp":"2023-06-02T21:59:47.373Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:03:35.227Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:03:35.270Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:03:35.952Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:03:35.984Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:04:25.647Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:04:25.736Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:04:26.191Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:04:26.205Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:07:29.048Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:07:29.111Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:07:29.597Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:07:29.607Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2023-06-02T22:11:48.582Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words...","timestamp":"2023-06-02T22:11:48.596Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:14:32.236Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:14:32.367Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:14:33.083Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:14:33.098Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:15:48.583Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:15:48.723Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:15:49.401Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:15:49.419Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:16:27.591Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:16:27.821Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:16:28.459Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:16:28.476Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:17:00.894Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:17:01.022Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:17:45.202Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:17:45.488Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:17:46.884Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:17:46.921Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:18:23.975Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:18:24.259Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:18:24.869Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:18:24.889Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:18:36.508Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:18:36.545Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:18:37.628Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:18:37.951Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:18:57.963Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:18:58.003Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:18:59.144Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:18:59.165Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:19:23.386Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:19:23.506Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:19:24.675Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:19:24.850Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:19:52.468Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:19:52.827Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:19:53.968Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:19:53.990Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:21:23.486Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:21:23.996Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:21:24.571Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:21:24.593Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:23:00.302Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:23:00.768Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:23:01.445Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:23:01.458Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:23:06.279Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:23:06.334Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:23:06.860Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:23:06.883Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:23:19.757Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:23:19.807Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:23:20.353Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:23:20.817Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:23:23.335Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:23:23.369Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:23:23.860Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:23:23.891Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:23:45.538Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:23:45.782Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:23:46.736Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:23:46.771Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:24:17.238Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:24:17.622Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:24:18.468Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:24:18.510Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:24:35.034Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:24:35.133Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:24:35.688Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:24:35.814Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:24:40.776Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:24:40.844Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:24:41.371Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:24:41.390Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:24:46.935Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:24:46.985Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:24:47.491Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:24:47.534Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:24:56.676Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:24:56.736Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:24:57.222Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:24:57.240Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:25:42.134Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:25:42.426Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:25:43.432Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:25:43.448Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:25:45.921Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:25:45.981Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:25:46.470Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:25:46.489Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2023-06-02T22:26:09.226Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words...","timestamp":"2023-06-02T22:26:09.243Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2023-06-02T22:26:21.296Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words...","timestamp":"2023-06-02T22:26:21.311Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:26:21.637Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:26:21.839Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:26:23.003Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:26:23.028Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2023-06-02T22:26:51.821Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words...","timestamp":"2023-06-02T22:26:51.838Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:26:52.206Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:26:52.270Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:26:53.618Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:26:53.639Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2023-06-02T22:28:31.284Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words...","timestamp":"2023-06-02T22:28:31.300Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:28:31.691Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:28:31.753Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:28:33.112Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:28:33.154Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2023-06-02T22:28:36.440Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words...","timestamp":"2023-06-02T22:28:36.458Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:28:36.772Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:28:36.857Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:28:37.421Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:28:37.455Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:30:47.676Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:30:47.798Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:30:48.471Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:30:48.500Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:31:31.588Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:31:31.627Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:31:31.875Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:31:31.943Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:31:32.847Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:31:32.873Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:31:33.364Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:31:33.428Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:32:02.264Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:32:02.308Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:32:02.472Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:32:02.514Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:32:03.203Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:32:03.222Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:32:03.906Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:32:03.942Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:33:13.268Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:33:13.349Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:33:15.676Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:33:15.722Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:33:40.138Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:33:40.201Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:33:40.361Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:33:40.447Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:33:41.307Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:33:41.349Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:33:41.865Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:33:41.892Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:35:49.782Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:35:49.792Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:36:04.894Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:36:04.974Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-02T22:36:05.777Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-02T22:36:05.846Z"}
