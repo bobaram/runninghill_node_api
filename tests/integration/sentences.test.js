@@ -1,18 +1,13 @@
 const request = require("supertest");
 const { Sentence } = require("../../models/sentence");
-
+const config = require("config");
 let server;
 describe("POST / /api/words/sentences", () => {
-  // Define the happy path, and then in each test, we change
-  // one parameter that clearly aligns with the name of the
-  // test.
   let sentence;
-
-  console.log(server, "sentence");
 
   const exec = async () => {
     return await request(server)
-      .post("/api/words/sentences")
+      .post(config.get("sentencesEndpoint"))
       .send({ sentence });
   };
 
@@ -49,7 +44,7 @@ describe("POST / /api/words/sentences", () => {
     it("should save the sentence if it is valid", async () => {
       await exec();
 
-      const genre = await Sentence.find({ sentence: "I am a boy!" });
+      const sentence = await Sentence.find({ sentence: "I am a boy!" });
 
       expect(sentence).not.toBeNull();
     });

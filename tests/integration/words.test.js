@@ -1,6 +1,8 @@
 const mongoose = require("mongoose");
 const request = require("supertest");
 const wordSchema = require("../../models/word");
+const config = require("config");
+
 let wordType;
 let collectionName;
 let WordModel;
@@ -9,10 +11,10 @@ const words = require("./words.data");
 let server;
 
 describe(" GET /api/words/wordlist", () => {
-  console.log(server, "words");
-
   const exex = async (wordType) => {
-    return await request(server).get(`/api/words/wordlist?type=${wordType}`);
+    return await request(server).get(
+      `${config.get("wordsEndpoint")}?type=${wordType}`
+    );
   };
   beforeEach(() => {
     server = require("../../index");

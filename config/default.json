@@ -1,0 +1,4 @@
+{
+  "wordsEndpoint": "/api/words/wordlist",
+  "sentencesEndpoint": "/api/words/sentences"
+}
