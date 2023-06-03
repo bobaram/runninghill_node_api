@@ -64,7 +64,7 @@ describe("POST / /api/words/sentences", () => {
       ];
       await Sentence.collection.insertMany(sentences);
 
-      const res = await request(server).get("/api/words/sentences");
+      const res = await request(server).get(config.get("sentencesEndpoint"));
 
       expect(res.status).toBe(200);
       expect(res.body.length).toBe(2);

@@ -1504,3 +1504,7 @@
 {"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-03T19:08:23.862Z"}
 {"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-03T19:08:24.537Z"}
 {"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-03T19:08:24.569Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-03T19:13:01.914Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-03T19:13:02.033Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2023-06-03T19:13:02.640Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/words_tests...","timestamp":"2023-06-03T19:13:02.660Z"}
