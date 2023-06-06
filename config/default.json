@@ -1,4 +1,6 @@
 {
+  "collectionNamesEndpoint": "/api/words/collections",
   "wordsEndpoint": "/api/words/wordlist",
-  "sentencesEndpoint": "/api/words/sentences"
+  "sentencesEndpoint": "/api/words/sentences",
+  "collectionNames": "words"
 }
