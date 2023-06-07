@@ -29,14 +29,14 @@ describe("validateSentence", () => {
   it("should return validation error for a sentence longer than 50 characters", () => {
     const sentence = {
       sentence:
-        "This is a very long sentence that exceeds the maximum allowed length of 50 characters.",
+        "This is a very ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg long sentence that exceeds the maximum allowed length of 350 characters.",
     };
 
     const validationResult = validate(sentence);
 
     expect(validationResult.error).toBeDefined();
     expect(validationResult.error.details[0].message).toContain(
-      "length must be less than or equal to 50 characters long"
+      "length must be less than or equal to 350 characters long"
     );
   });
 
