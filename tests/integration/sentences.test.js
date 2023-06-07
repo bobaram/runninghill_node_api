@@ -33,8 +33,8 @@ describe("POST / /api/words/sentences", () => {
       expect(res.status).toBe(400);
     });
 
-    it("should return 400 if sentence is more than 50 characters", async () => {
-      sentence = new Array(52).join("a");
+    it("should return 400 if sentence is more than 350 characters", async () => {
+      sentence = new Array(352).join("a");
 
       const res = await exec();
 

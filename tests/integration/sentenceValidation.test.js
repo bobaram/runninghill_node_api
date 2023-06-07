@@ -26,10 +26,10 @@ describe("validateSentence", () => {
     );
   });
 
-  it("should return validation error for a sentence longer than 50 characters", () => {
+  it("should return validation error for a sentence longer than 350 characters", () => {
     const sentence = {
       sentence:
-        "This is a very ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg long sentence that exceeds the maximum allowed length of 350 characters.",
+        "This is a very gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg long sentence that exceeds the maximum allowed length of 350 characters.",
     };
 
     const validationResult = validate(sentence);
